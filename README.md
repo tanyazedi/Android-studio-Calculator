@@ -5,7 +5,7 @@ Welcome to the Calculator App repository! This Android application provides a si
 ## Features
 
 - Addition, subtraction, multiplication, and division operations.
-- Clear button to reset the current input.
+- Clear button to reset the current input. 
 - Decimal point for floating-point numbers.
 
 ## Screenshots
